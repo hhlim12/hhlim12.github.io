@@ -1,2 +1,2 @@
-# state-batch.github.io
+# state-batch pages
 Github pages for STATE-BATCH package
